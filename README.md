@@ -3,9 +3,9 @@
 A new Flutter application.
 
 ## Getting Started
-#day mode
+## day mode
 ![alt text](https://user-images.githubusercontent.com/68784333/113281071-cd0cba80-92ed-11eb-837e-7afc90036751.jpeg)
-#dark mode
+## dark mode
 ![alt text](https://user-images.githubusercontent.com/68784333/113281077-ce3de780-92ed-11eb-8937-841478c700d6.jpeg)
 
 This project is a starting point for a Flutter application.
